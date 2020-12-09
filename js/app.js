@@ -2,7 +2,7 @@
 // SET GLOBAL VARIABLES
 
 // URL of CSV file containing geocoded data 
-var csvurl = "https://raw.githubusercontent.com/kerguio/baroque/master/files/baroque.csv";
+var csvurl = "https://raw.githubusercontent.com/kerguio/winter/main/files/winter.csv";
 var icourl = "img/marker.png"
 
 
